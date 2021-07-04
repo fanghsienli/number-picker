@@ -1,0 +1,10 @@
+.demo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.demo div {
+    margin: auto 0;
+}
